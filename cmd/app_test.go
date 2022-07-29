@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/longbridgeapp/opencc"
+	"github.com/razonyang/opencc"
 	"github.com/urfave/cli/v2"
 )
 

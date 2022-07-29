@@ -1,3 +1,4 @@
+github.com/adamzy/cedar-go v0.0.0-20170805034717-80a9c64b256d h1:ir/IFJU5xbja5UaBEQLjcvn7aAU01nqU/NUyOBEU+ew=
 github.com/adamzy/cedar-go v0.0.0-20170805034717-80a9c64b256d/go.mod h1:PRWNwWq0yifz6XDPZu48aSld8BWwBfr2JKB2bGWiEd4=
 github.com/cpuguy83/go-md2man/v2 v2.0.2 h1:p1EgwI/C7NhT0JmVkwCD2ZBK8j4aeHQX2pMHHBfMQ6w=
 github.com/cpuguy83/go-md2man/v2 v2.0.2/go.mod h1:tgQtvFlXSQOSOSIRvRPT7W67SCa46tRHOmNcaadrF8o=
@@ -10,11 +11,9 @@ github.com/liuzl/cedar-go v0.0.0-20170805034717-80a9c64b256d h1:qSmEGTgjkESUX5kP
 github.com/liuzl/cedar-go v0.0.0-20170805034717-80a9c64b256d/go.mod h1:x7SghIWwLVcJObXbjK7S2ENsT1cAcdJcPl7dRaSFog0=
 github.com/liuzl/da v0.0.0-20180704015230-14771aad5b1d h1:hTRDIpJ1FjS9ULJuEzu69n3qTgc18eI+ztw/pJv47hs=
 github.com/liuzl/da v0.0.0-20180704015230-14771aad5b1d/go.mod h1:7xD3p0XnHvJFQ3t/stEJd877CSIMkH/fACVWen5pYnc=
-github.com/liuzl/gocc v0.0.0-20220225063456-aa3aa1ed51ac h1:aF8XgxlbPueSLQMdEgQNs4Am0qznttC6w7Gf11OY1tg=
-github.com/liuzl/gocc v0.0.0-20220225063456-aa3aa1ed51ac/go.mod h1:7KaV9YIR92M1FpbczAcfYQ3UZ5ayT27pNtunDmXvLBo=
-github.com/longbridgeapp/opencc v0.1.8 h1:PAlBbEgdTGrVn+PyGPOIM0CuaHiYd+Cnf1hZ2VY9GRo=
-github.com/longbridgeapp/opencc v0.1.8/go.mod h1:jRuKtq8eLA+cZUu75XgMvkB/hFSXJbZDmij0v29lNaY=
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
+github.com/razonyang/opencc v0.1.9 h1:rCeQ0CBImfNEdyjIYiZTO4xWvfZoK+xTa6PBENoIlG8=
+github.com/razonyang/opencc v0.1.9/go.mod h1:B7pBRKuMarWhz41JL3gSaMKxTxEmU7dKidf+mPYdj+Q=
 github.com/russross/blackfriday/v2 v2.1.0 h1:JIOH55/0cWyOuilr9/qlrm0BSXldqnqwMsf35Ld67mk=
 github.com/russross/blackfriday/v2 v2.1.0/go.mod h1:+Rmxgy9KzJVeS9/2gXHxylqXiyQDYRxCVz55jmeOWTM=
 github.com/sergi/go-diff v1.2.0/go.mod h1:STckp+ISIX8hZLjrqAeVduY0gWCT9IjLuqbuNXdaHfM=
