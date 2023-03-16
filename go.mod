@@ -4,7 +4,7 @@ go 1.18
 
 require (
 	github.com/razonyang/opencc v0.1.9
-	github.com/urfave/cli/v2 v2.11.1
+	github.com/urfave/cli/v2 v2.25.0
 )
 
 require (
