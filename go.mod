@@ -3,7 +3,7 @@ module github.com/razonyang/gopencc
 go 1.18
 
 require (
-	github.com/razonyang/opencc v0.1.9
+	github.com/longbridgeapp/opencc v0.3.11
 	github.com/urfave/cli/v2 v2.25.0
 )
 

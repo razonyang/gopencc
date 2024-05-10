@@ -5,7 +5,7 @@ import (
 	"os"
 	"path"
 
-	"github.com/razonyang/opencc"
+	"github.com/longbridgeapp/opencc"
 	"github.com/urfave/cli/v2"
 )
 
