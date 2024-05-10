@@ -12,6 +12,7 @@ name: release-please
 jobs:
   release-please:
     runs-on: ubuntu-latest
+    environment: production
     steps:
       - uses: google-github-actions/release-please-action@v4
         with:
